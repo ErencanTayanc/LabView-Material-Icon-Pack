@@ -1,12 +1,8 @@
 # LabView-Material-Icon-Pack
 Material icon pack for LabView. 
 
-# Web Site
-https://erencantayanc.github.io/labviewmdiconpack/
 
-
-
-# Icon Views
+## Icon Views
 | Icon Name | View | Dark Support | Light Support |
 | --- | :---: | :---: | :---: |
 | Add | ![Add](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_add_black_24dp.png) | Yes | Yes |
@@ -46,4 +42,5 @@ https://erencantayanc.github.io/labviewmdiconpack/
 | Zoom In | ![Zoom In](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_zoom_in_black_24dp.png) | Yes | Yes |
 | Zoom Out | ![Zoom Out](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_zoom_out_black_24dp.png) | Yes | Yes |
 
-
+## Web Site
+https://erencantayanc.github.io/labviewmdiconpack/
