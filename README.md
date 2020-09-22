@@ -1,5 +1,6 @@
 # LabView-Material-Icon-Pack
-Material icon pack for LabView. 
+Material icon pack for LabView. It includes Dark and Light Theme Icon Packs. 
+- Requirements: LabVIEW 2015 or above
 
 
 ## Icon Views
@@ -35,3 +36,5 @@ Material icon pack for LabView.
 
 ### Web Site
 https://erencantayanc.github.io/labviewmdiconpack/
+
+
