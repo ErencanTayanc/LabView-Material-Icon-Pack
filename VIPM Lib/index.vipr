@@ -1,0 +1,18 @@
+[Self]
+Self.Name=Material Design Icon Pack
+Self.URL=file:///c:/users/erencan/desktop/labview template/vipm lib
+Release.Number=1
+Release.Date=Pzt, 21 Eyl 2020 09:06:04 0300
+Self.ID=45b38ea967305ec90cbae83535eaa4c3
+Client.GlobalAccess=TRUE
+
+[Package erencan_tayanc_lib_material_icons_pack-1.0.0.2]
+Package.URL=packages/erencan_tayanc_lib_material_icons_pack/erencan_tayanc_lib_material_icons_pack-1.0.0.2.vip
+Icon.URL=packages/erencan_tayanc_lib_material_icons_pack/erencan_tayanc_lib_material_icons_pack-1.0.0.2.bmp
+Spec.URL=packages/erencan_tayanc_lib_material_icons_pack/erencan_tayanc_lib_material_icons_pack-1.0.0.2.spec
+Package.MD5=879a1bc18c0d7ac2fb5676dda72adef1
+Package.Release Date=Pzt, 21 Eyl 2020 09:06:04 0300
+Platform.Exclusive_LabVIEW_Version=LabVIEW>=15.0
+Platform.Exclusive_OS=ALL
+Package.Display Name=Material Icons Pack
+Platform.Exclusive_VIPM_Version=2017

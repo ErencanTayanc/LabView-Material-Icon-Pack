@@ -1,0 +1,28 @@
+<?xml version="1.0" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Material Design Icon Pack</title>
+    <description>Material Design Icon Pack</description>
+    <pubDate>Pzt, 21 Eyl 2020 09:06:04 0300</pubDate>
+    <link>file:///c:/users/erencan/desktop/labview template/vipm lib</link>
+    <atom:link href="file:///c:/users/erencan/desktop/labview template/vipm lib/index.rss" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Material Icons Pack v1.0.0.2</title>
+      <description>&lt;img alt="" src="file:///c:/users/erencan/desktop/labview template/packages/erencan_tayanc_lib_material_icons_pack/erencan_tayanc_lib_material_icons_pack-1.0.0.2.bmp"&gt;&lt;br&gt;
+&lt;br&gt;
+Product: Material Icons Pack v1.0.0.2&lt;br&gt;
+Company: Erencan TAYANC&lt;br&gt;
+Release Date: Pzt, 21 Eyl 2020 09:06:04 0300&lt;br&gt;
+Packager: Erencan TAYANC&lt;br&gt;
+&lt;br&gt;
+Description: &lt;br&gt;
+&lt;br&gt;
+Release Notes: Material Icon Pack for LabVIEW.&lt;br&gt;This package includes Light &amp;amp; Dark Theme Icon Pack.&lt;br&gt;Web Site: https://erencantayanc.github.io/labviewmdiconpack/&lt;br&gt;
+&lt;br&gt;</description>
+      <pubDate>Pzt, 21 Eyl 2020 09:06:04 0300</pubDate>
+      <guid isPermaLink="false">erencan_tayanc_lib_material_icons_pack-1.0.0.2</guid>
+      <dc:creator>Erencan TAYANC</dc:creator>
+      <link>https://erencantayanc.github.io/labviewmdiconpack/</link>
+    </item>
+  </channel>
+</rss>
