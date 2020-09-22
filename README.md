@@ -4,7 +4,7 @@ Material icon pack for LabView.
 
 ## Icon Views
 | Icon Name | View | Dark Support | Light Support |
-| --- | --- | --- | --- |
+| --- | *---* | --- | *---* |
 | Add | ![Add](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_add_black_24dp.png) | Arrow Down | ![Arrow Down](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_arrow_drop_down_black_24dp.png) | 
 | Arrow Left | ![Arrow Left](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_arrow_left_black_24dp.png) | Arrow Right | ![Arrow Right](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_arrow_right_black_24dp.png) |
 | Arrow Up | ![Arrow Up](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_arrow_drop_up_black_24dp.png) | Calendar | ![Calendar](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_date_range_black_24dp.png) |
