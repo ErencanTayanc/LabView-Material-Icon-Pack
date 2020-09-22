@@ -42,5 +42,11 @@ Material icon pack for LabView.
 | Zoom In | ![Zoom In](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_zoom_in_black_24dp.png) | Yes | Yes |
 | Zoom Out | ![Zoom Out](https://raw.githubusercontent.com/ErencanTayanc/labView-Material-Icon-Pack/master/Assets%2024%20Pixels/baseline_zoom_out_black_24dp.png) | Yes | Yes |
 
-## Web Site
+## TODO List
+- [x] Push First Commit to GitHub
+- [ ] Add New Icons
+- [ ] Add Material Design Type String-Numeric Controls and Indicators
+- [ ] Add Material Design Type Enum/Ring Controls and Indicators
+
+### Web Site
 https://erencantayanc.github.io/labviewmdiconpack/
